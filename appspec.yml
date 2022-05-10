@@ -10,3 +10,5 @@ permissions: # 복사한 파일들의 소유자정보
    pattern: "**"
    owner: ec2-user
    group: ec2-user
+
+#수정완료
